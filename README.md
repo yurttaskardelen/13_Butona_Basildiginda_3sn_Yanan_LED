@@ -57,3 +57,13 @@ Buton bağlantısı **Pull-Up** mantığına göre (GND'ye) yapılmalıdır.
 ### 💻 Kod Bloğu
 
 <img width="597" height="344" alt="image" src="https://github.com/user-attachments/assets/21957bd6-adee-4a43-a0be-2b703b96a7d1" />
+
+---
+
+### 🚀 Nasıl Kullanılır?
+
+1.  Bu depoyu klonlayın (`git clone ...`).
+2.  STM32CubeIDE yazılımını açın.
+3.  `File > Open Projects from File System...` seçeneği ile proje klasörünü seçin.
+4.  Proje içindeki `.ioc` dosyasını açarak pin yapılandırmasını inceleyebilirsiniz.
+5.  Derleyin (Build) ve ST-Link V2 üzerinden kartınıza yükleyin (Run).
